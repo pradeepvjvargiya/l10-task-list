@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'The list of tasks')
+@section('title', 'Task list')
 
 @section('content')
     <nav class="mb-4">
